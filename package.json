@@ -1,0 +1,15 @@
+{
+  "name": "odata-node",
+  "version": "1.0.0",
+  "description": "<p> This Small Aplication is an example to be followed if you need to connect an node.js application with an Odata Service provided by a SAP System.</p>\r <p> Will be possible to you see how to use it in some different way.</p>",
+  "main": "conn1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lenon Soares",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
